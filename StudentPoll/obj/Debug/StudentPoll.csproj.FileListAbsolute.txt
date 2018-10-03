@@ -1,0 +1,10 @@
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe.config
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\bin\Debug\StudentPoll.pdb
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\obj\Debug\StudentPoll.Form1.resources
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\obj\Debug\StudentPoll.Properties.Resources.resources
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csproj.GenerateResource.cache
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+C:\Users\Ashton\source\repos\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
